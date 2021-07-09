@@ -1,0 +1,18 @@
+.jumbotron {
+	background-image: url(img/https://ibb.co/Np90chf);
+	background-size: cover;
+	height: 770px;
+	text-align: center;
+}
+.jumbotron p {font-size: 20 px}
+
+}
+.jumbotorn hr {
+	border-color: #ffb84d;
+	width: 70px;
+	border-width: 3px;
+}
+.jumbotron .btn{
+	background-color: #ffa31a
+	border:none;
+}
