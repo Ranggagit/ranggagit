@@ -21,8 +21,8 @@ th {
 }
 
 td {
-	background-color: #A52A2A;
-	color: #F5F5DC;
+	background-color: red;
+	color: blue;
 	text-align: right;
 	padding: 20px;
 }
